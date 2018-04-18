@@ -38,7 +38,7 @@ class Msc extends Model
             6 => '扣除数量',
             7 => '瓜子币投资',
             8 => '现金投资',
-            9 => '静态收益减少',
+            9 => '静态收益',
         );
         $array = array(
             'uid' => $uid,
