@@ -1,1 +1,1 @@
-瓜子币后台
+mysql5.6+php7.0+thinkphp5.0
